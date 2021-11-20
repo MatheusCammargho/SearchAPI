@@ -1,4 +1,0 @@
-[SearchAPI|@MatheusCammargho|@Mtch|(C)2021]
-===========================================
-<iframe src="https://matheuscammargho.github.io/---/SearchAPI.html" style="border:none;" title="SearchAPI" width="266" height="174"></iframe>
-===========================================
